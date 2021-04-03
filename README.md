@@ -1,2 +1,3 @@
 # c-101
-class project
+also install package - 'pip3 install dropbox'
+
